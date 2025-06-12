@@ -1,14 +1,6 @@
-# 🎮 Tic-Tac-Mania
+# 🎮 Tic-Tac-Mania 🔗 [Click here to play now!](https://ashwindumane.github.io/Tic-Tac-Toe-Mania/)
 
 A simple and fun **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**. Play against your friend in the browser!
-
----
-
-## 🚀 Live Demo
-
-🔗 [Click here to play now!](https://ashwindumane.github.io/Tic-Tac-Toe-Mania/)
-
----
 
 ## 📸 Screenshots
 
